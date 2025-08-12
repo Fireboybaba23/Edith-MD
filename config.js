@@ -20,7 +20,7 @@ module.exports = {
   STICKER_NAME: process.env.STICKER_NAME || "EDITH-MD",
   CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
   CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
-  DELETE_LINKS: process.env.DELETE_LINKS || "false",
+  DELETE_LINKS: process.env.DELETE_LINKS || "true",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "2348139598985",
   OWNER_NAME: process.env.OWNER_NAME || "𝕷𝖔𝖗𝖉 【𖢣】 Ɇ₳Ɽ₦Ɇ₴₮ 😈",
   DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Bandaheali*",
